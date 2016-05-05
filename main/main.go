@@ -5,7 +5,6 @@ import "github.com/kostasgeo/slice_pointers"
 import "github.com/kostasgeo/slice_literals"
 import "github.com/kostasgeo/slice_bounds"
 import "github.com/kostasgeo/making_slices"
-import "github.com/kostasgeo/tour/pic"
 import "github.com/kostasgeo/exercise_slices"
 
 func main() {
