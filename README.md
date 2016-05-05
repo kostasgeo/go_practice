@@ -1,1 +1,1 @@
-#go_practice
+#go_practice_go
