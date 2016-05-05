@@ -6,6 +6,7 @@ import "github.com/kostasgeo/slice_literals"
 import "github.com/kostasgeo/slice_bounds"
 import "github.com/kostasgeo/making_slices"
 import "github.com/kostasgeo/exercise_slices"
+import "github.com/kostasgeo/tour/pic"
 
 func main() {
 	fmt.Println("Go main Function")
